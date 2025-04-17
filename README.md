@@ -1,7 +1,6 @@
 # Text Classification for Research Papers
 
-## Problem Statement
-Develop a text classification model to predict the relevant terms or labels associated with research papers based on their titles and summaries.
+i Developed a text classification model to predict the relevant terms or labels associated with research papers based on their titles and summaries.
 
 ## Objective
 The objective of this project is to accurately classify research papers into relevant categories or terms, enabling better organization and retrieval of information.
